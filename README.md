@@ -17,7 +17,7 @@ Este proyecto es una aplicación web profesional desarrollada con **Django**. Pe
 *   **Base de Datos:** SQLite3
 
 ## Cómo Ejecutar el Proyecto
-1.  **Clonar el repositorio:** `git clone [URL-DE-TU-REPO]`
+1.  **Clonar el repositorio:** `git clone [https://github.com/RubenV-boop/mi-portafolio-django-libros.git]`
 2.  **Crear entorno virtual:** `python -m venv venv`
 3.  **Activar entorno:** `.\venv\Scripts\activate` (Windows)
 4.  **Instalar librerías:** `pip install -r requirements.txt`
